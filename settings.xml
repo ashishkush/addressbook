@@ -24,6 +24,11 @@
       <username>${NEXUS-USER}</username>
       <password>${NEXUS-PASS}</password>
     </server>
+	 <server>
+        <id>${NEXUS-VAADIN-ADDON}</id>
+      <username>${NEXUS-USER}</username>
+      <password>${NEXUS-PASS}</password>
+    </server>
   </servers>
 
   <mirrors>
